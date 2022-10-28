@@ -1,7 +1,7 @@
 {
-  "name": "burger-api",
+  "name": "myapi",
   "version": "1.0.0",
-  "description": "My Burger Api",
+  "description": "My Api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kubowania/burger-api.git"
+    "url": "git+https://github.com/mukundtheamateur/myapi.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kubowania/burger-api/issues"
+    "url": "https://github.com/mukundtheamateur/myapi/issues"
   },
-  "homepage": "https://github.com/kubowania/burger-api#readme",
+  "homepage": "https://github.com/mukundtheamateur/myapi#readme",
   "dependencies": {
     "json-server": "^0.16.2"
   }
