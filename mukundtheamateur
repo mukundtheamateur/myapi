@@ -1,0 +1,62 @@
+[
+    {
+        "name": "EPC",
+        "description": "Official website for our college ECE departmental club (Electronics project club)",
+        "language": "HTML, CSS, JS",
+        "owner": "mukundtheamateur",
+        "link": "https://github.com/mukundtheamateur/EPC",
+        "stars": "55",
+        "forks": "4",
+        "languageColor": "#3178c6"
+    },
+    {
+        "name": "asrvd.me",
+        "description": "personal site made using the t3 stack",
+        "language": "TypeScript",
+        "owner": "asrvd",
+        "link": "https://github.com/asrvd/asrvd.me",
+        "stars": "53",
+        "forks": "3",
+        "languageColor": "#3178c6"
+    },
+    {
+        "name": "favmoji",
+        "description": "use emojis (twemoji) as favicon in your project using link tags",
+        "language": "TypeScript",
+        "owner": "asrvd",
+        "link": "https://github.com/asrvd/favmoji",
+        "stars": "15",
+        "forks": 0,
+        "languageColor": "#3178c6"
+    },
+    {
+        "name": "ohmypoll",
+        "description": "🗳 nextjs app to create and share polls",
+        "language": "TypeScript",
+        "owner": "asrvd",
+        "link": "https://github.com/asrvd/ohmypoll",
+        "stars": "15",
+        "forks": "3",
+        "languageColor": "#3178c6"
+    },
+    {
+        "name": "ponsor",
+        "description": "💸 getting sponsored made easy with widgets !",
+        "language": "TypeScript",
+        "owner": "asrvd",
+        "link": "https://github.com/asrvd/ponsor",
+        "stars": "13",
+        "forks": "2",
+        "languageColor": "#3178c6"
+    },
+    {
+        "name": "onigiri",
+        "description": "🍙 a very dark, minimal, powerful and fully customizable startpage made using vue.",
+        "language": "Vue",
+        "owner": "asrvd",
+        "link": "https://github.com/asrvd/onigiri",
+        "stars": "11",
+        "forks": "4",
+        "languageColor": "#41b883"
+    }
+]
